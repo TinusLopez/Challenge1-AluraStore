@@ -50,12 +50,7 @@ Si no tienes estas bibliotecas instaladas, puedes instalarlas manualmente:
 ```bash
 pip install pandas matplotlib folium
 ```
-## Uso
-1. Abre el archivo `analisis_ventas.py` o cualquier archivo de código que desees ejecutar.
-2. Ejecuta el script con el siguiente comando:
-```bash
-python analisis_ventas.py
-```
+
 3. El código generará gráficos y análisis basados en los datos de ventas y la ubicación de las
 tiendas.
 
