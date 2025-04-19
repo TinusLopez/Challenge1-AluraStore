@@ -30,18 +30,12 @@ Primero, clona el repositorio usando Git:
 ```bash
 git clone https://github.com/tu-usuario/tu-repositorio.git
 ```
-### 2. Crear un Entorno Virtual (opcional)
-Es recomendable crear un entorno virtual para gestionar las dependencias del proyecto. Si usas
-**virtualenv**, puedes crear el entorno con:
-```bash
-python3 -m venv venv
-```
-### 3. Instalar las Dependencias
+### 2. Instalar las Dependencias
 Una vez que el entorno virtual esté activo, instala las dependencias necesarias utilizando **pip**:
 ```bash
 pip install -r requirements.txt
 ```
-### 4. Requisitos
+### 3. Requisitos
 Este proyecto requiere las siguientes bibliotecas de Python:
 - `pandas`
 - `matplotlib`
